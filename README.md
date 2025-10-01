@@ -11,8 +11,8 @@ Tener python.
 ```bash
 python Implementacion.py Gramatica.txt
 ```
-- **`->`** separa el no terminal de sus producciones
-- **`|`** separa producciones alternativas
+- **->** separa el no terminal de sus producciones
+- **|** separa producciones alternativas
 - **lambda** lo cambia a ε
   
 Gramatica Usada:
