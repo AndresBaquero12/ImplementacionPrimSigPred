@@ -1,0 +1,11 @@
+S -> A uno B C
+S -> S dos
+A -> B C D
+A -> A tres
+A -> lambda
+B -> D cuatro C tres
+B -> lambda
+C -> cinco D B
+C -> lambda
+D -> seis
+D -> lambda
